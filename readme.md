@@ -1,0 +1,1 @@
+Este programa se baseia no exemplo que grava um video, mas ele usa o modelo pre-treinado do yolov8 para detectar pessoas e fazer um retangulo aproximadamente envolta das faces. Ele grava cada uma das frames anotadas do video no arquivo final.avi que pode ser reproduzido com o script videoPlayer.py que tambem se baseia no exemplo.
